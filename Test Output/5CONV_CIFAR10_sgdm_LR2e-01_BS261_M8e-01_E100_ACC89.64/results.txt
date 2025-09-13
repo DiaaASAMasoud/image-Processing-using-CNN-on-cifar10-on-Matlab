@@ -1,0 +1,17 @@
+Model	: 5CONV_CIFAR10_sgdm_LR2e-01_BS261_M8e-01_E100_ACC89.64
+Accuracy	: 89.64%
+Precision	: 89.67%
+Recall		: 89.64%
+F1 Score	: 89.57%
+
+Class-wise metrics:
+Class 0 ->	Precision: 89.32%	, Recall: 92.00%	, F1: 90.64%
+Class 1 ->	Precision: 94.01%	, Recall: 95.80%	, F1: 94.90%
+Class 2 ->	Precision: 82.73%	, Recall: 89.60%	, F1: 86.03%
+Class 3 ->	Precision: 82.83%	, Recall: 76.20%	, F1: 79.38%
+Class 4 ->	Precision: 89.94%	, Recall: 88.50%	, F1: 89.21%
+Class 5 ->	Precision: 89.29%	, Recall: 78.40%	, F1: 83.49%
+Class 6 ->	Precision: 86.73%	, Recall: 95.40%	, F1: 90.86%
+Class 7 ->	Precision: 94.08%	, Recall: 92.10%	, F1: 93.08%
+Class 8 ->	Precision: 94.71%	, Recall: 94.90%	, F1: 94.81%
+Class 9 ->	Precision: 93.03%	, Recall: 93.50%	, F1: 93.27%

@@ -32,7 +32,7 @@ This project explores image classification on the CIFAR-10 dataset using Convolu
 - Script for loading the training configuration `createTrainingOptions.mlx`,
 - Experimentation on particular configurations via `testconfigs.mlx`
 - Results aggregation and visualisation scripts (`aggregate_results.mlx`, `Scattergraph.mlx`).
--The Best model resulted in an  Accuracy	of 89.86%, a Precision	of 89.84%, a Recall of 89.86% and an F1 Score	of 89.78%
+-The Best model resulted in an  Accuracy	of 91.93%, a Precision	of 91.962%, a Recall of 91.93% and an F1 Score	of 91.89%
 - different testing models are presented in: `Test Output` folder
 - An Excel summary of experiments (`experiment_summary.xlsx`) resulted from the `aggregate_results.mlx` file and can be reproduced, given that more tests were done.
 

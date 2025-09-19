@@ -1,0 +1,17 @@
+Model	: 5CONV_CIFAR10_adam_LR2e-04_BS460_E100_ACC73.71
+Accuracy	: 73.71%
+Precision	: 73.94%
+Recall		: 73.71%
+F1 Score	: 73.18%
+
+Class-wise metrics:
+Class 0 ->	Precision: 69.51%	, Recall: 81.40%	, F1: 74.99%
+Class 1 ->	Precision: 82.82%	, Recall: 88.20%	, F1: 85.42%
+Class 2 ->	Precision: 72.35%	, Recall: 61.50%	, F1: 66.49%
+Class 3 ->	Precision: 67.17%	, Recall: 44.60%	, F1: 53.61%
+Class 4 ->	Precision: 72.23%	, Recall: 66.60%	, F1: 69.30%
+Class 5 ->	Precision: 72.20%	, Recall: 60.50%	, F1: 65.83%
+Class 6 ->	Precision: 63.33%	, Recall: 89.80%	, F1: 74.28%
+Class 7 ->	Precision: 72.52%	, Recall: 79.70%	, F1: 75.94%
+Class 8 ->	Precision: 87.17%	, Recall: 83.60%	, F1: 85.35%
+Class 9 ->	Precision: 80.08%	, Recall: 81.20%	, F1: 80.64%

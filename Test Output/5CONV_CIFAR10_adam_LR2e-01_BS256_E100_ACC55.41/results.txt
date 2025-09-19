@@ -1,0 +1,17 @@
+Model	: 5CONV_CIFAR10_adam_LR2e-01_BS256_E100_ACC55.41
+Accuracy	: 55.41%
+Precision	: 54.36%
+Recall		: 55.41%
+F1 Score	: 54.04%
+
+Class-wise metrics:
+Class 0 ->	Precision: 58.03%	, Recall: 66.10%	, F1: 61.80%
+Class 1 ->	Precision: 62.80%	, Recall: 75.30%	, F1: 68.49%
+Class 2 ->	Precision: 47.17%	, Recall: 35.80%	, F1: 40.70%
+Class 3 ->	Precision: 43.51%	, Recall: 18.10%	, F1: 25.56%
+Class 4 ->	Precision: 50.64%	, Recall: 47.70%	, F1: 49.12%
+Class 5 ->	Precision: 44.88%	, Recall: 44.70%	, F1: 44.79%
+Class 6 ->	Precision: 53.75%	, Recall: 65.90%	, F1: 59.21%
+Class 7 ->	Precision: 57.08%	, Recall: 68.50%	, F1: 62.27%
+Class 8 ->	Precision: 69.84%	, Recall: 66.70%	, F1: 68.24%
+Class 9 ->	Precision: 55.91%	, Recall: 65.30%	, F1: 60.24%

@@ -1,0 +1,17 @@
+Model	: 5CONV_CIFAR10_adam_LR1e-02_BS308_E100_ACC72.27
+Accuracy	: 72.27%
+Precision	: 72.42%
+Recall		: 72.27%
+F1 Score	: 71.83%
+
+Class-wise metrics:
+Class 0 ->	Precision: 69.66%	, Recall: 76.00%	, F1: 72.69%
+Class 1 ->	Precision: 81.23%	, Recall: 87.40%	, F1: 84.20%
+Class 2 ->	Precision: 68.03%	, Recall: 59.80%	, F1: 63.65%
+Class 3 ->	Precision: 58.90%	, Recall: 51.60%	, F1: 55.01%
+Class 4 ->	Precision: 73.63%	, Recall: 65.60%	, F1: 69.38%
+Class 5 ->	Precision: 73.76%	, Recall: 52.00%	, F1: 61.00%
+Class 6 ->	Precision: 64.52%	, Recall: 89.10%	, F1: 74.84%
+Class 7 ->	Precision: 71.24%	, Recall: 80.50%	, F1: 75.59%
+Class 8 ->	Precision: 84.06%	, Recall: 80.70%	, F1: 82.35%
+Class 9 ->	Precision: 79.13%	, Recall: 80.00%	, F1: 79.56%

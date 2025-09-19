@@ -1,0 +1,17 @@
+Model	: 5CONV_CIFAR10_adam_LR1e-02_BS290_E100_ACC82.26
+Accuracy	: 82.26%
+Precision	: 82.36%
+Recall		: 82.26%
+F1 Score	: 82.02%
+
+Class-wise metrics:
+Class 0 ->	Precision: 79.36%	, Recall: 86.90%	, F1: 82.96%
+Class 1 ->	Precision: 90.35%	, Recall: 90.80%	, F1: 90.57%
+Class 2 ->	Precision: 81.97%	, Recall: 76.40%	, F1: 79.09%
+Class 3 ->	Precision: 77.39%	, Recall: 59.20%	, F1: 67.08%
+Class 4 ->	Precision: 82.74%	, Recall: 78.60%	, F1: 80.62%
+Class 5 ->	Precision: 77.98%	, Recall: 71.90%	, F1: 74.82%
+Class 6 ->	Precision: 74.42%	, Recall: 92.50%	, F1: 82.48%
+Class 7 ->	Precision: 82.23%	, Recall: 89.80%	, F1: 85.85%
+Class 8 ->	Precision: 92.10%	, Recall: 87.40%	, F1: 89.69%
+Class 9 ->	Precision: 85.10%	, Recall: 89.10%	, F1: 87.05%

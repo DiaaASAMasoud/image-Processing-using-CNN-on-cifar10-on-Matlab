@@ -1,0 +1,17 @@
+Model	: 5CONV_CIFAR10_adam_LR2e-04_BS359_E100_ACC78.39
+Accuracy	: 78.39%
+Precision	: 78.54%
+Recall		: 78.39%
+F1 Score	: 78.01%
+
+Class-wise metrics:
+Class 0 ->	Precision: 73.72%	, Recall: 86.40%	, F1: 79.56%
+Class 1 ->	Precision: 88.60%	, Recall: 88.60%	, F1: 88.60%
+Class 2 ->	Precision: 78.40%	, Recall: 66.80%	, F1: 72.14%
+Class 3 ->	Precision: 71.11%	, Recall: 54.40%	, F1: 61.64%
+Class 4 ->	Precision: 79.22%	, Recall: 73.60%	, F1: 76.31%
+Class 5 ->	Precision: 76.48%	, Recall: 63.10%	, F1: 69.15%
+Class 6 ->	Precision: 70.29%	, Recall: 92.50%	, F1: 79.88%
+Class 7 ->	Precision: 76.17%	, Recall: 84.70%	, F1: 80.21%
+Class 8 ->	Precision: 88.07%	, Recall: 87.10%	, F1: 87.58%
+Class 9 ->	Precision: 83.37%	, Recall: 86.70%	, F1: 85.00%

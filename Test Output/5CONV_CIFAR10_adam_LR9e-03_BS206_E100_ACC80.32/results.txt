@@ -1,0 +1,17 @@
+Model	: 5CONV_CIFAR10_adam_LR9e-03_BS206_E100_ACC80.32
+Accuracy	: 80.32%
+Precision	: 80.67%
+Recall		: 80.32%
+F1 Score	: 79.99%
+
+Class-wise metrics:
+Class 0 ->	Precision: 75.60%	, Recall: 88.30%	, F1: 81.46%
+Class 1 ->	Precision: 86.10%	, Recall: 91.70%	, F1: 88.81%
+Class 2 ->	Precision: 79.81%	, Recall: 74.70%	, F1: 77.17%
+Class 3 ->	Precision: 73.64%	, Recall: 58.40%	, F1: 65.14%
+Class 4 ->	Precision: 87.52%	, Recall: 71.50%	, F1: 78.70%
+Class 5 ->	Precision: 80.30%	, Recall: 64.80%	, F1: 71.72%
+Class 6 ->	Precision: 72.73%	, Recall: 93.60%	, F1: 81.85%
+Class 7 ->	Precision: 79.78%	, Recall: 85.20%	, F1: 82.40%
+Class 8 ->	Precision: 91.84%	, Recall: 85.50%	, F1: 88.56%
+Class 9 ->	Precision: 79.34%	, Recall: 89.50%	, F1: 84.12%

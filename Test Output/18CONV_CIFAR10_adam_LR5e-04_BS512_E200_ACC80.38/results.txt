@@ -1,0 +1,17 @@
+Model	: 18CONV_CIFAR10_adam_LR5e-04_BS512_E200_ACC80.38
+Accuracy	: 80.38%
+Precision	: 80.46%
+Recall		: 80.38%
+F1 Score	: 80.08%
+
+Class-wise metrics:
+Class 0 ->	Precision: 77.21%	, Recall: 88.40%	, F1: 82.42%
+Class 1 ->	Precision: 87.92%	, Recall: 89.50%	, F1: 88.70%
+Class 2 ->	Precision: 76.57%	, Recall: 76.80%	, F1: 76.68%
+Class 3 ->	Precision: 74.86%	, Recall: 54.80%	, F1: 63.28%
+Class 4 ->	Precision: 78.42%	, Recall: 75.60%	, F1: 76.99%
+Class 5 ->	Precision: 75.82%	, Recall: 69.30%	, F1: 72.41%
+Class 6 ->	Precision: 73.10%	, Recall: 93.50%	, F1: 82.05%
+Class 7 ->	Precision: 85.88%	, Recall: 81.50%	, F1: 83.63%
+Class 8 ->	Precision: 90.08%	, Recall: 88.10%	, F1: 89.08%
+Class 9 ->	Precision: 84.77%	, Recall: 86.30%	, F1: 85.53%

@@ -1,0 +1,17 @@
+Model	: 5CONV_CIFAR10_adam_LR3e-03_BS110_M1e+00_E240_ACC41.46
+Accuracy	: 40.98%
+Precision	: 42.49%
+Recall		: 40.98%
+F1 Score	: 39.52%
+
+Class-wise metrics:
+Class 0 ->	Precision: 38.27%	, Recall: 59.66%	, F1: 46.63%
+Class 1 ->	Precision: 49.85%	, Recall: 63.81%	, F1: 55.97%
+Class 2 ->	Precision: 30.49%	, Recall: 37.61%	, F1: 33.68%
+Class 3 ->	Precision: 30.41%	, Recall: 30.02%	, F1: 30.21%
+Class 4 ->	Precision: 48.19%	, Recall: 9.33%	, F1: 15.63%
+Class 5 ->	Precision: 39.71%	, Recall: 29.76%	, F1: 34.02%
+Class 6 ->	Precision: 37.09%	, Recall: 56.02%	, F1: 44.63%
+Class 7 ->	Precision: 44.83%	, Recall: 44.83%	, F1: 44.83%
+Class 8 ->	Precision: 56.81%	, Recall: 34.50%	, F1: 42.93%
+Class 9 ->	Precision: 49.29%	, Recall: 44.23%	, F1: 46.62%

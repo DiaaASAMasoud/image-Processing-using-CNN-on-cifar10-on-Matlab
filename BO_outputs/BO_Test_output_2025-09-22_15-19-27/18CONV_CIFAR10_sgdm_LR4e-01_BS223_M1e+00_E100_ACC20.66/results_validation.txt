@@ -1,0 +1,17 @@
+Model	: 18CONV_CIFAR10_sgdm_LR4e-01_BS223_M1e+00_E100_ACC20.66
+Accuracy	: 20.36%
+Precision	: 16.48%
+Recall		: 20.20%
+F1 Score	: 14.82%
+
+Class-wise metrics:
+Class 0 ->	Precision: 24.39%	, Recall: 13.81%	, F1: 17.63%
+Class 1 ->	Precision: 24.38%	, Recall: 43.49%	, F1: 31.24%
+Class 2 ->	Precision: 10.05%	, Recall: 4.20%	, F1: 5.93%
+Class 3 ->	Precision: 0.00%	, Recall: 0.00%	, F1: 0.00%
+Class 4 ->	Precision: 18.50%	, Recall: 77.23%	, F1: 29.84%
+Class 5 ->	Precision: 14.34%	, Recall: 20.78%	, F1: 16.97%
+Class 6 ->	Precision: 0.00%	, Recall: 0.00%	, F1: 0.00%
+Class 7 ->	Precision: 0.00%	, Recall: 0.00%	, F1: 0.00%
+Class 8 ->	Precision: 50.19%	, Recall: 13.06%	, F1: 20.73%
+Class 9 ->	Precision: 22.98%	, Recall: 29.45%	, F1: 25.81%

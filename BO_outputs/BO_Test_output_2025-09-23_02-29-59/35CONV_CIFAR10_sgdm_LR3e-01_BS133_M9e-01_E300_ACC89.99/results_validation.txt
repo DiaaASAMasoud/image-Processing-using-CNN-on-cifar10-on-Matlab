@@ -1,0 +1,17 @@
+Model	: 35CONV_CIFAR10_sgdm_LR3e-01_BS133_M9e-01_E300_ACC89.99
+Accuracy	: 90.82%
+Precision	: 90.76%
+Recall		: 90.85%
+F1 Score	: 90.76%
+
+Class-wise metrics:
+Class 0 ->	Precision: 92.49%	, Recall: 92.31%	, F1: 92.40%
+Class 1 ->	Precision: 95.07%	, Recall: 97.04%	, F1: 96.05%
+Class 2 ->	Precision: 85.21%	, Recall: 89.60%	, F1: 87.35%
+Class 3 ->	Precision: 83.49%	, Recall: 78.64%	, F1: 80.99%
+Class 4 ->	Precision: 92.31%	, Recall: 90.27%	, F1: 91.28%
+Class 5 ->	Precision: 89.87%	, Recall: 81.37%	, F1: 85.41%
+Class 6 ->	Precision: 89.31%	, Recall: 94.59%	, F1: 91.87%
+Class 7 ->	Precision: 90.63%	, Recall: 94.06%	, F1: 92.32%
+Class 8 ->	Precision: 94.84%	, Recall: 95.21%	, F1: 95.02%
+Class 9 ->	Precision: 94.39%	, Recall: 95.40%	, F1: 94.89%

@@ -1,0 +1,17 @@
+Model	: 18CONV_CIFAR10_sgdm_LR1e-02_BS420_M1e+00_E100_ACC88.48
+Accuracy	: 88.76%
+Precision	: 88.71%
+Recall		: 88.79%
+F1 Score	: 88.68%
+
+Class-wise metrics:
+Class 0 ->	Precision: 88.47%	, Recall: 90.83%	, F1: 89.64%
+Class 1 ->	Precision: 94.22%	, Recall: 96.45%	, F1: 95.32%
+Class 2 ->	Precision: 81.58%	, Recall: 86.97%	, F1: 84.19%
+Class 3 ->	Precision: 82.48%	, Recall: 74.11%	, F1: 78.07%
+Class 4 ->	Precision: 89.79%	, Recall: 86.46%	, F1: 88.09%
+Class 5 ->	Precision: 85.91%	, Recall: 79.71%	, F1: 82.69%
+Class 6 ->	Precision: 85.74%	, Recall: 94.49%	, F1: 89.90%
+Class 7 ->	Precision: 89.64%	, Recall: 91.20%	, F1: 90.41%
+Class 8 ->	Precision: 94.22%	, Recall: 94.22%	, F1: 94.22%
+Class 9 ->	Precision: 95.02%	, Recall: 93.44%	, F1: 94.23%

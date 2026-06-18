@@ -1,0 +1,17 @@
+Model	: 41CONV_CIFAR10_sgdm_LR7e-01_BS2048_M7e-01_E100_ACC17.73
+Accuracy	: 15.92%
+Precision	: 22.22%
+Recall		: 15.88%
+F1 Score	: 8.68%
+
+Class-wise metrics:
+Class 0 ->	Precision: 41.30%	, Recall: 0.48%	, F1: 0.94%
+Class 1 ->	Precision: 100.00%	, Recall: 0.25%	, F1: 0.50%
+Class 2 ->	Precision: 8.38%	, Recall: 10.28%	, F1: 9.23%
+Class 3 ->	Precision: 7.54%	, Recall: 4.14%	, F1: 5.35%
+Class 4 ->	Precision: 11.76%	, Recall: 0.10%	, F1: 0.20%
+Class 5 ->	Precision: 0.00%	, Recall: 0.00%	, F1: 0.00%
+Class 6 ->	Precision: 16.65%	, Recall: 92.81%	, F1: 28.23%
+Class 7 ->	Precision: 8.70%	, Recall: 9.72%	, F1: 9.18%
+Class 8 ->	Precision: 0.00%	, Recall: 0.00%	, F1: 0.00%
+Class 9 ->	Precision: 27.90%	, Recall: 41.03%	, F1: 33.21%

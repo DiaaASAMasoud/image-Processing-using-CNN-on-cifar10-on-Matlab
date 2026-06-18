@@ -1,0 +1,17 @@
+Model	: 41CONV_CIFAR10_sgdm_LR8e-01_BS128_M7e-01_E100_ACC0.00
+Accuracy	: 0.00%
+Precision	: 0.00%
+Recall		: 0.00%
+F1 Score	: 0.00%
+
+Class-wise metrics:
+Class 0 ->	Precision: 0.00%	, Recall: 0.00%	, F1: 0.00%
+Class 1 ->	Precision: 0.00%	, Recall: 0.00%	, F1: 0.00%
+Class 2 ->	Precision: 0.00%	, Recall: 0.00%	, F1: 0.00%
+Class 3 ->	Precision: 0.00%	, Recall: 0.00%	, F1: 0.00%
+Class 4 ->	Precision: 0.00%	, Recall: 0.00%	, F1: 0.00%
+Class 5 ->	Precision: 0.00%	, Recall: 0.00%	, F1: 0.00%
+Class 6 ->	Precision: 0.00%	, Recall: 0.00%	, F1: 0.00%
+Class 7 ->	Precision: 0.00%	, Recall: 0.00%	, F1: 0.00%
+Class 8 ->	Precision: 0.00%	, Recall: 0.00%	, F1: 0.00%
+Class 9 ->	Precision: 0.00%	, Recall: 0.00%	, F1: 0.00%

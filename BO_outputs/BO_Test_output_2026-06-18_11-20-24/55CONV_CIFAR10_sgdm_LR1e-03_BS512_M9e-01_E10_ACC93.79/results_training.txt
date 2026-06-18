@@ -1,0 +1,17 @@
+Model	: 55CONV_CIFAR10_sgdm_LR1e-03_BS512_M9e-01_E10_ACC93.79
+Accuracy	: 98.00%
+Precision	: 98.00%
+Recall		: 98.00%
+F1 Score	: 98.00%
+
+Class-wise metrics:
+Class 0 ->	Precision: 97.32%	, Recall: 98.93%	, F1: 98.12%
+Class 1 ->	Precision: 98.64%	, Recall: 99.31%	, F1: 98.97%
+Class 2 ->	Precision: 97.48%	, Recall: 97.46%	, F1: 97.47%
+Class 3 ->	Precision: 96.16%	, Recall: 96.16%	, F1: 96.16%
+Class 4 ->	Precision: 98.05%	, Recall: 97.77%	, F1: 97.91%
+Class 5 ->	Precision: 96.98%	, Recall: 96.15%	, F1: 96.56%
+Class 6 ->	Precision: 98.59%	, Recall: 98.87%	, F1: 98.73%
+Class 7 ->	Precision: 98.80%	, Recall: 98.38%	, F1: 98.59%
+Class 8 ->	Precision: 98.90%	, Recall: 98.81%	, F1: 98.86%
+Class 9 ->	Precision: 99.10%	, Recall: 98.13%	, F1: 98.61%

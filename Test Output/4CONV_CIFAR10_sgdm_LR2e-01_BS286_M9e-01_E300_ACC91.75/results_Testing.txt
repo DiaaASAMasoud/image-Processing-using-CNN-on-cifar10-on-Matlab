@@ -1,0 +1,17 @@
+Model	: 4CONV_CIFAR10_sgdm_LR2e-01_BS286_M9e-01_E300_ACC91.75
+Accuracy	: 91.75%
+Precision	: 91.73%
+Recall		: 91.75%
+F1 Score	: 91.71%
+
+Class-wise metrics:
+Class 0 ->	Precision: 92.09%	, Recall: 93.10%	, F1: 92.59%
+Class 1 ->	Precision: 93.78%	, Recall: 98.00%	, F1: 95.84%
+Class 2 ->	Precision: 90.63%	, Recall: 90.00%	, F1: 90.32%
+Class 3 ->	Precision: 85.64%	, Recall: 81.10%	, F1: 83.31%
+Class 4 ->	Precision: 90.70%	, Recall: 92.70%	, F1: 91.69%
+Class 5 ->	Precision: 89.37%	, Recall: 84.90%	, F1: 87.08%
+Class 6 ->	Precision: 89.70%	, Recall: 96.70%	, F1: 93.07%
+Class 7 ->	Precision: 95.53%	, Recall: 94.00%	, F1: 94.76%
+Class 8 ->	Precision: 94.72%	, Recall: 95.10%	, F1: 94.91%
+Class 9 ->	Precision: 95.13%	, Recall: 91.90%	, F1: 93.49%

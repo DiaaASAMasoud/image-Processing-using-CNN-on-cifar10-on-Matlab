@@ -1,0 +1,17 @@
+Model	: 41CONV_CIFAR10_sgdm_LR5e-01_BS124_M9e-01_E300_ACC89.88
+Accuracy	: 90.67%
+Precision	: 90.70%
+Recall		: 90.72%
+F1 Score	: 90.58%
+
+Class-wise metrics:
+Class 0 ->	Precision: 90.42%	, Recall: 93.98%	, F1: 92.17%
+Class 1 ->	Precision: 94.84%	, Recall: 97.83%	, F1: 96.31%
+Class 2 ->	Precision: 83.86%	, Recall: 91.18%	, F1: 87.37%
+Class 3 ->	Precision: 82.64%	, Recall: 79.63%	, F1: 81.10%
+Class 4 ->	Precision: 94.42%	, Recall: 88.26%	, F1: 91.24%
+Class 5 ->	Precision: 91.75%	, Recall: 75.90%	, F1: 83.08%
+Class 6 ->	Precision: 88.21%	, Recall: 96.22%	, F1: 92.04%
+Class 7 ->	Precision: 92.00%	, Recall: 93.04%	, F1: 92.52%
+Class 8 ->	Precision: 94.44%	, Recall: 96.61%	, F1: 95.52%
+Class 9 ->	Precision: 94.43%	, Recall: 94.52%	, F1: 94.47%
